@@ -1,1 +1,2 @@
-# random
+During my practice sessions, I have honed my skills in HTML and CSS by building a variety of projects that demonstrate my understanding of front-end web development. From designing responsive layouts to implementing user-friendly interfaces, my projects reflect creativity and technical proficiency. These exercises have equipped me with a strong foundation in structuring web pages and styling them effectively, ensuring a seamless user experience. I am excited to share these projects to highlight my growth and passion for web development.
+
